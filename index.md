@@ -7,7 +7,7 @@ Highly motivated Software Developer with experience in data analytics and a pass
 Here are some of the projects that I've created during my time at Zipcode Wilmington.
 
 ## Cocktail Compendium
-A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Springboot using Hibernate and a React frontend. (in-progress) Draws cocktails from an [external API](https://www.thecocktaildb.com/api.php) 
+A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Spring Boot using Hibernate and a React frontend. (in-progress) Draws cocktails from an [external API](https://www.thecocktaildb.com/api.php) 
 
 [View Project Backend GitHub](https://github.com/ElBell/CocktailSpringBoot)  
 [View Project Frontend GitHub](https://github.com/ElBell/CocktailReact)
