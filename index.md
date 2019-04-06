@@ -9,8 +9,7 @@ Here are some of the projects that I've created during my time at Zipcode Wilmin
 ## Cocktail Compendium
 A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Springboot using Hibernate and a React frontend. (in-progress) Draws cocktails from an [external API](https://www.thecocktaildb.com/api.php) 
 
-[View Project Backend GitHub](https://github.com/ElBell/CocktailSpringBoot)
-
+[View Project Backend GitHub](https://github.com/ElBell/CocktailSpringBoot)\
 [View Project Frontend GitHub](https://github.com/ElBell/CocktailReact)
 
 [![Screenshot of DrinkList](Pictures/DrinkList.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/DrinkListLarge.png)
@@ -20,8 +19,7 @@ A web app for searching and filtering cocktails by ingredients and calorie estim
 ## Choose Your Own Adventure
 A website for hosting text-based adventure games that were written in Python. Games are playable client-side via Brython. Built in Django with a Postgres database and hosted on Heroku. 
 
-[View Project Backend GitHub](https://github.com/ElBell/ChooseYourAdventure)
-
+[View Project Backend GitHub](https://github.com/ElBell/ChooseYourAdventure)\
 [Vist site](https://choose-your-python-adventure.herokuapp.com/)
 
 [![Screenshot of HomePage](Pictures/HomePage.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/HomePageLarge.png)
