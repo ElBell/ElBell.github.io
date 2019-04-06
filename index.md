@@ -14,9 +14,18 @@ A scientific calculator created in Java using JavaFX for the GUI. Respects order
 
 [View Project GitHub](https://github.com/ElBell/Calculator)
 
-[![Screenshot of ](Pictures/CalcEquation.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/CalcEquationLarge.png)
-[![Screenshot of ](Pictures/CalcAnswer.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/CalcAnswerLarge.png)
+[![Screenshot of Equation](Pictures/CalcEquation.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/CalcEquationLarge.png)
+[![Screenshot of Answer](Pictures/CalcAnswer.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/CalcAnswerLarge.png)
 
 ## Cocktail Compendium
+A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Springboot using Hibernate and a React frontend. (in-progress) Draws cocktails from an [external API](https://www.thecocktaildb.com/api.php) 
 
-## Corgis are great
+[View Project Backend GitHub](https://github.com/ElBell/CocktailSpringBoot)
+[View Project Frontend GitHub](https://github.com/ElBell/CocktailReact)
+
+[![Screenshot of DrinkList](Pictures/DrinkList.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/DrinkListLarge.png)
+[![Screenshot of Aviation](Pictures/Aviation.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/AviationLarge.png)
+[![Screenshot of Drink with Misc Glass](Pictures/MiscGlass.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/MiscGlassLarge.png)
+
+
+## Choose Your Own Adventure
