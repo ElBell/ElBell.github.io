@@ -14,7 +14,8 @@ A scientific calculator created in Java using JavaFX for the GUI. Respects order
 
 [View Project GitHub](https://github.com/ElBell/Calculator)
 
-[![Screenshot of ](Pictures/GoFish.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/GoFishLarge.png)
+[![Screenshot of ](Pictures/CalcEquation.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/CalcEquationLarge.png)
+[![Screenshot of ](Pictures/CalcAnswer.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/CalcAnswerLarge.png)
 
 ## Cocktail Compendium
 
