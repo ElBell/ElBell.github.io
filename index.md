@@ -2,14 +2,10 @@ Highly motivated Software Developer with experience in data analytics and a pass
 
 [Check out my resume](https://docs.google.com/document/d/16gB0iobGVH8CEFEHYtfQ_ZvxI0zrScuwmNG7i3dhlQE/edit?usp=sharing)
 
-# Projects
-
-Below are some of the projects that I've created during my time at Zipcode Wilmington.
-
 <hr>
 ## Cocktail Compendium
 
-_(in-progress)_
+*(in-progress)*
 
 A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Spring Boot using Hibernate and a React frontend. Draws cocktails from an [external API](https://www.thecocktaildb.com/api.php) 
 
