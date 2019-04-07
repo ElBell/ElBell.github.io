@@ -23,8 +23,8 @@ A web app for searching and filtering cocktails by ingredients and calorie estim
 ## Choose Your Own Adventure
 A website for hosting text-based adventure games that were written in Python. Games are playable client-side via Brython. Built in Django with a Postgres database and hosted on Heroku. 
 
-[Visit site](https://choose-your-python-adventure.herokuapp.com/)
-[View Project GitHub](https://github.com/ElBell/ChooseYourAdventure)  
+[Visit Site](https://choose-your-python-adventure.herokuapp.com/)  
+[View Project GitHub](https://github.com/ElBell/ChooseYourAdventure)
 
 [![Screenshot of HomePage](Pictures/HomePage.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/HomePageLarge.png)
 [![Screenshot of PlayGame](Pictures/PlayGame.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/PlayGameLarge.png)
