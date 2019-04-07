@@ -2,13 +2,14 @@ Highly motivated Software Developer with experience in data analytics and a pass
 
 [Check out my resume](https://docs.google.com/document/d/16gB0iobGVH8CEFEHYtfQ_ZvxI0zrScuwmNG7i3dhlQE/edit?usp=sharing)
 
+Below are some of my projects from my time at Zipcode.
 <hr>
 
 ## Cocktail Compendium
 
 *(in-progress)*
 
-A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Spring Boot using Hibernate and a React frontend. Draws cocktails from an [external API](https://www.thecocktaildb.com/api.php) 
+A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Spring Boot using Hibernate and a React frontend. Draws cocktails from an [external API.](https://www.thecocktaildb.com/api.php) 
 
 [View Project Backend GitHub](https://github.com/ElBell/CocktailSpringBoot)  
 [View Project Frontend GitHub](https://github.com/ElBell/CocktailReact)
