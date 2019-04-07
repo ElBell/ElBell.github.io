@@ -9,9 +9,14 @@ $link-color: #ac4142;
 img {
  display: inline; 
 }
+
 img.block {
   display:block;
 }
 a {
   font-weight: bold;
-  }
+}
+
+a.copyright {
+ font-weight:lighter;
+}
