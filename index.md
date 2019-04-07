@@ -12,9 +12,7 @@ A web app for searching and filtering cocktails by ingredients and calorie estim
 [View Project Backend GitHub](https://github.com/ElBell/CocktailSpringBoot)  
 [View Project Frontend GitHub](https://github.com/ElBell/CocktailReact)
 
-[![Screenshot of DrinkList](Pictures/DrinkList.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/DrinkListLarge.png)
-[![Screenshot of Aviation](Pictures/Aviation.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/AviationLarge.png)
-[![Screenshot of Drink with Misc Glass](Pictures/MiscGlass.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/MiscGlassLarge.png)
+[![Screenshot of DrinkList](Pictures/DrinkList.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/DrinkListLarge.png)[![Screenshot of Aviation](Pictures/Aviation.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/AviationLarge.png)[![Screenshot of Drink with Misc Glass](Pictures/MiscGlass.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/MiscGlassLarge.png)
 
 ## Choose Your Own Adventure
 A website for hosting text-based adventure games that were written in Python. Games are playable client-side via Brython. Built in Django with a Postgres database and hosted on Heroku. 
