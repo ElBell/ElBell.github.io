@@ -5,3 +5,10 @@
 $sidebar-bg-color: #6f2a2b;
 $link-color: #ac4142;
 @import "hydeout";
+
+img {
+ display: inline; 
+}
+img.block {
+  display:block;
+}
