@@ -1,0 +1,19 @@
+<nav id="sidebar-icon-links">
+    <a id="github-link"
+       class="icon" title="GitHub" aria-label="GitHub"
+       href="https://github.com/ElBell">
+      {% include svg/github.svg %}
+    </a>
+    <a id="linkedin-link"
+    class="icon" title="LinkedIn" aria-label="LinkedIn"
+    href="https://www.linkedin.com/in/eleonorbart/"
+    {% include svg/linkedin.svg %}
+    </a>
+
+  {% comment %}
+    Check if we have tag or search pages page active before linking to it.
+  {% endcomment %}
+
+
+  {% include custom-icon-links.html %}
+</nav>
