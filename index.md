@@ -3,6 +3,7 @@ Highly motivated Software Developer with experience in data analytics and a pass
 [Check out my resume](https://docs.google.com/document/d/16gB0iobGVH8CEFEHYtfQ_ZvxI0zrScuwmNG7i3dhlQE/edit?usp=sharing)
 
 <hr>
+
 ## Cocktail Compendium
 
 *(in-progress)*
@@ -17,6 +18,7 @@ A web app for searching and filtering cocktails by ingredients and calorie estim
 [![Screenshot of Drink with Misc Glass](Pictures/MiscGlass.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/MiscGlassLarge.png)
 
 <hr>
+
 ## Choose Your Own Adventure
 A website for hosting text-based adventure games that were written in Python. Games are playable client-side via Brython. Built in Django with a Postgres database and hosted on Heroku. 
 
@@ -28,6 +30,7 @@ A website for hosting text-based adventure games that were written in Python. Ga
 [![Screenshot of EditGame](Pictures/EditGame.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/EditGameLarge.png)
 
 <hr>
+
 ## Calculator
 A scientific calculator created in Java using JavaFX for the GUI. Parses arbitrary user input via a modification of Djikstra's Shunting-yard algorithm. Respects order of operations and functions in binary, hexadecimal, octal, and decimal.
 
@@ -37,6 +40,7 @@ A scientific calculator created in Java using JavaFX for the GUI. Parses arbitra
 [![Screenshot of Answer](Pictures/CalcAnswer.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/CalcAnswerLarge.png)
 
 <hr>
+
 ## Casino
 A Java-based casino app that runs in the terminal. Personally responsible for overall architecture, game selection interface and the GoFish game. Served as team lead and ScrumMaster for team of 5 in completing this project.
 
