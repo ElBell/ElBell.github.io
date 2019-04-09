@@ -20,7 +20,7 @@ A web app for searching and filtering cocktails by ingredients and calorie estim
 
 <hr>
 
-## Choose Your Own Adventure
+## Choose Your Python Adventure
 A website for hosting text-based adventure games that were written in Python. Games are playable client-side via Brython. Built in Django with a Postgres database and hosted on Heroku. 
 
 [Visit Site](https://choose-your-python-adventure.herokuapp.com/)  
