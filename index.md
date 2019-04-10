@@ -2,7 +2,7 @@ Highly motivated Software Developer with a master’s degree in Animal Science, 
 
 [Check out my resume](Resume.pdf)
 
-Below are some of my projects from my time at Zipcode.
+Below are some of my projects from my time at Zip Code Wilmington.
 <hr>
 
 ## Cocktail Compendium
@@ -43,7 +43,7 @@ A scientific calculator created in Java using JavaFX for the GUI. Parses arbitra
 <hr>
 
 ## Casino
-A Java-based casino app that runs in the terminal. Personally responsible for overall architecture, game selection interface and the GoFish game. Served as team lead and ScrumMaster for team of 5 in completing this project.
+A Java-based casino app that runs in the terminal. Personally responsible for overall architecture, game selection interface and the GoFish game. Served as team lead and Scrum Master for team of 5 in completing this project.
 
 [View Project GitHub](https://github.com/ElBell/Maven.Casino)
 
