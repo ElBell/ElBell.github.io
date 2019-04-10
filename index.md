@@ -1,6 +1,6 @@
-Highly motivated Software Developer with experience in data analytics and a passion for full stack development. A detail oriented professional who thrives in fast-paced, intensive, research focused environments. Excellent communicator, skilled at presenting and conveying complex, domain-specific information to team members in easy to understand terms. 
+Highly motivated Software Developer with a master’s degree in Animal Science, professional experience in data analytics, and a passion for full stack development. A detail-oriented professional who thrives in fast-paced, intensive, research-focused environments. Excellent communicator, skilled at presenting and conveying complex, domain-specific information to team members in easy to understand terms.  
 
-[Check out my resume](Eleonor Bart final resume.pdf)
+[Check out my resume](Resume.pdf)
 
 Below are some of my projects from my time at Zipcode.
 <hr>
