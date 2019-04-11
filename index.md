@@ -15,8 +15,8 @@ A web app for searching and filtering cocktails by ingredients and calorie estim
 [View Project Frontend GitHub](https://github.com/ElBell/CocktailReact)
 
 [![Screenshot of DrinkList](Pictures/DrinkList.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/DrinkListLarge.png)
-[![Screenshot of Aviation](Pictures/Aviation.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/AviationLarge.png)
-[![Screenshot of Drink with Misc Glass](Pictures/MiscGlass.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/MiscGlassLarge.png)
+[![Screenshot of Drink](Pictures/Drink.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/DrinkLarge.png)
+[![Screenshot of Drink with Ingredients](Pictures/IngredientList.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/IngredientListLarge.png)
 
 <hr>
 
