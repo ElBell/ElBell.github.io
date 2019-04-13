@@ -1,6 +1,6 @@
 Highly motivated Software Developer with a master’s degree in Animal Science, professional experience in data analytics, and a passion for full stack development. A detail-oriented professional who thrives in fast-paced, intensive, research-focused environments. Excellent communicator, skilled at presenting and conveying complex, domain-specific information to team members in easy to understand terms.  
 
-[Check out my resume](Resume.pdf)
+[Check out my resume](EleonorBartResume.pdf)
 
 Below are some of my projects from my time at Zip Code Wilmington.
 <hr>
@@ -10,6 +10,8 @@ Below are some of my projects from my time at Zip Code Wilmington.
 *(in-progress)*
 
 A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Spring Boot using Hibernate and a React frontend. Draws cocktails from an [external API.](https://www.thecocktaildb.com/api.php) 
+
+**[Visit Site](https://cocktail-compendium.herokuapp.com/)**
 
 [View Project Backend GitHub](https://github.com/ElBell/CocktailSpringBoot)  
 [View Project Frontend GitHub](https://github.com/ElBell/CocktailReact)
@@ -23,7 +25,8 @@ A web app for searching and filtering cocktails by ingredients and calorie estim
 ## Choose Your Python Adventure
 A website for hosting text-based adventure games that were written in Python. Games are playable client-side via Brython. Built in Django with a Postgres database and hosted on Heroku. 
 
-[Visit Site](https://choose-your-python-adventure.herokuapp.com/)  
+**[Visit Site](https://choose-your-python-adventure.herokuapp.com/)**
+
 [View Project GitHub](https://github.com/ElBell/ChooseYourAdventure)
 
 [![Screenshot of HomePage](Pictures/HomePage.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/HomePageLarge.png)
