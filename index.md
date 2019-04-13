@@ -11,6 +11,8 @@ Below are some of my projects from my time at Zip Code Wilmington.
 
 A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Spring Boot using Hibernate and a React frontend. Draws cocktails from an [external API.](https://www.thecocktaildb.com/api.php) 
 
+**[Visit Site](https://cocktail-compendium.herokuapp.com/)**
+
 [View Project Backend GitHub](https://github.com/ElBell/CocktailSpringBoot)  
 [View Project Frontend GitHub](https://github.com/ElBell/CocktailReact)
 
@@ -23,7 +25,8 @@ A web app for searching and filtering cocktails by ingredients and calorie estim
 ## Choose Your Python Adventure
 A website for hosting text-based adventure games that were written in Python. Games are playable client-side via Brython. Built in Django with a Postgres database and hosted on Heroku. 
 
-[Visit Site](https://choose-your-python-adventure.herokuapp.com/)  
+**[Visit Site](https://choose-your-python-adventure.herokuapp.com/)**
+
 [View Project GitHub](https://github.com/ElBell/ChooseYourAdventure)
 
 [![Screenshot of HomePage](Pictures/HomePage.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/HomePageLarge.png)
