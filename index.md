@@ -7,9 +7,7 @@ Below are some of my projects from my time at Zip Code Wilmington.
 
 ## Cocktail Compendium
 
-*(in-progress)*
-
-A web app for searching and filtering cocktails by ingredients and calorie estimations. Uses a MySQL database connected to Spring Boot using Hibernate and a React frontend. Draws cocktails from an [external API.](https://www.thecocktaildb.com/api.php) 
+A web app for searching and filtering cocktails by ingredients. Uses React front end with Spring Boot connected to a MySQL database and hosted on Heroku. Draws cocktails from an [external API.](https://www.thecocktaildb.com/api.php) 
 
 **[Visit Site](https://cocktail-compendium.herokuapp.com/)**
 
