@@ -11,7 +11,7 @@ A web app for searching and filtering cocktails by ingredients. Uses React front
 
 **[Visit Site](https://cocktail-compendium.herokuapp.com/)**
 
-[View Project GitHub - React](https://github.com/ElBell/CocktailReact)
+[View Project GitHub - React](https://github.com/ElBell/CocktailReact)<br/>
 [View Project GitHub - Spring Boot](https://github.com/ElBell/CocktailSpringBoot)  
 
 [![Screenshot of DrinkList](Pictures/DrinkList.png)](https://raw.githubusercontent.com/ElBell/ElBell.github.io/master/Pictures/DrinkListLarge.png)
