@@ -1,3 +1,7 @@
+<div style="padding: 20px; background-color: #ac4142; color: white; margin-bottom: 15px;">
+  Text goes here.
+</div>
+
 Highly motivated Software Developer with a master’s degree in Animal Science, professional experience in data analytics, and a passion for full stack development. A detail-oriented professional who thrives in fast-paced, intensive, research-focused environments. Excellent communicator, skilled at presenting and conveying complex, domain-specific information to team members in easy to understand terms.  
 
 [Check out my resume](EleonorBartResume.pdf)
