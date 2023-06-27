@@ -1,12 +1,10 @@
-<!--
 <div style="padding: 20px; background-color: #ac4142; color: white; margin-bottom: 15px;">
   Eleonor Marilyn Bart, affectionately known as Ellie, peacefully departed this world on June 9, 2023, leaving behind a legacy of love, kindness, and strength. She was a beloved daughter, a doting sister, a cherished friend, and a devoted wife whose radiant spirit touched the lives of all who had the privilege of knowing her.
   
   To honor Ellie's memory and the incredible person she was, the family kindly requests that in lieu of flowers, donations be made to a Memorial Fund that will be established in her honor. This cause will support women from non-traditional paths who are aspiring to become Software Engineers, just like Ellie.
   
-  To join the Eleonor Bart Memorial Fund mailing list, you can visit <a href="https://groups.google.com/g/eleonor-bart-memorial-fund/">https://groups.google.com/g/eleonor-bart-memorial-fund/</a> or send an email to <a href="mailto:eleonor-bart-memorial-fund@googlegroups.com">eleonor-bart-memorial-fund@googlegroups.com</a>.
+  To join the Eleonor Bart Memorial Fund mailing list, you can visit <a href="https://groups.google.com/g/eleonor-bart-memorial-fund/">https://groups.google.com/g/eleonor-bart-memorial-fund/</a> or send an email to <a href="mailto:eleonor-bart-memorial-fund@googlegroups.com">eleonor-bart-memorial-fund@googlegroups.com</a>. More details will be shared via that list over the next few months.
 </div>
--->
 
 Highly motivated Software Developer with a master’s degree in Animal Science, professional experience in data analytics, and a passion for full stack development. A detail-oriented professional who thrives in fast-paced, intensive, research-focused environments. Excellent communicator, skilled at presenting and conveying complex, domain-specific information to team members in easy to understand terms.  
 
