@@ -3,10 +3,9 @@
   
   <p>To honor Ellie's memory and the incredible person she was, the family kindly requests that in lieu of flowers, donations be made to a Memorial Fund that will be established in her honor. This cause will support women from non-traditional paths who are aspiring to become Software Engineers, just like Ellie.</p>
   
-  <p>More details will be shared via a mailing list, that you can join by:
+  <p>More details will be shared via a mailing list, which you can join by visiting:
     <ul>
-      <li>visiting <a href="https://groups.google.com/g/eleonor-bart-memorial-fund/" style="color: lightyellow; font-weight: bold">https://groups.google.com/g/eleonor-bart-memorial-fund/</a></li>
-      <li>or emailing <a href="mailto:eleonor-bart-memorial-fund@googlegroups.com" style="color: lightyellow; font-weight: bold;">eleonor-bart-memorial-fund@googlegroups.com</a></li>
+      <li><a href="https://webmail.acbart.com/cpsess0151473652/3rdparty/mailman/listinfo/eleonor-bart-memorial-fund_acbart.com" style="color: lightyellow; font-weight: bold">https://ellie.acbart.com</a></li>
     </ul>
     </p>
 </div>
