@@ -2,7 +2,7 @@
   <p>Eleonor Marilyn Bart, affectionately known as Ellie, peacefully departed this world on June 9, 2023, leaving behind a legacy of love, kindness, and strength. She was a beloved daughter, a doting sister, a cherished friend, and a devoted wife whose radiant spirit touched the lives of all who had the privilege of knowing her.</p>
   
   <p>To honor Ellie's memory and the incredible person she was, the family kindly requests that in lieu of flowers, donations be made to a Memorial Fund that will be established in her honor. This cause will support women from non-traditional paths who are aspiring to become Software Engineers, just like Ellie. To sign up to receive more details on the fund, put your email in the form below.</p>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_9nmILNXE3MRVjum5_JdosqDboMkHrT60MSvcA1Y4bh0kvQ/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_9nmILNXE3MRVjum5_JdosqDboMkHrT60MSvcA1Y4bh0kvQ/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
 Highly motivated Software Developer with a master’s degree in Animal Science, professional experience in data analytics, and a passion for full stack development. A detail-oriented professional who thrives in fast-paced, intensive, research-focused environments. Excellent communicator, skilled at presenting and conveying complex, domain-specific information to team members in easy to understand terms.  
